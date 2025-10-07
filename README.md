@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Lina Palacios
+![Lina Palacios Banner](https://github.com/Linchenpal/Linchenpal/blob/main/1.png?raw=true)
 
 🎯 **AI Engineer | Applied Mathematician | ML & Data Engineering | GCP • Docker • Airflow • Python • SQL**
 
