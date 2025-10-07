@@ -58,5 +58,5 @@ Former Actuarial Analyst in P&C insurance with strong mathematical background, t
 ---
 
 ## 📫 Connect with me
-- [[LinkedIn](https://linkedin.com/in/your-link)](https://www.linkedin.com/in/lina-palacios/?trk=PROFILE_TOP_CARD_OPEN_TO_ENROLLED)
-- Email: linam.palacios@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-palacios)
+
