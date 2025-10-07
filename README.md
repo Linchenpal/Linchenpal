@@ -1,5 +1,4 @@
 ![Lina Palacios Banner](https://github.com/Linchenpal/Linchenpal/blob/main/1.png?raw=true)
-
 🎯 **AI Engineer | Applied Mathematician | ML & Data Engineering | GCP • Docker • Airflow • Python • SQL**
 
 Former Actuarial Analyst in P&C insurance with strong mathematical background, transitioned into Data Science and recently completed a Data Engineering apprenticeship. Skilled in developing end-to-end pipelines with Airflow, dbt, GCP, and deploying ML models using CI/CD tools. Eager to apply AI and data infrastructure expertise in real-world business contexts, including insurance, banking, and social impact projects.
