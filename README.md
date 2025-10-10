@@ -48,14 +48,6 @@ Former Actuarial Analyst in P&C insurance with strong mathematical background, t
 
 ---
 
-## 🌱 Learning & Next Goals
-
-- Studying **ML & DL model selection** for real business cases (insurance, health, fintech)
-- Expanding MLOps skills (CI/CD, monitoring, retraining pipelines)
-- Exploring **AI for Social Good**: Coffee crop health prediction (Altura 🌱)
-
----
-
 ## 📫 Connect with me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lina-palacios)
 
