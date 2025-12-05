@@ -35,7 +35,7 @@ Former Actuarial Analyst in P&C insurance with strong mathematical background, t
 
 ## 🚀 Projects
 
-### 🔹 [TrueNet – AI vs Human Content Detector](https://github.com/your-repo/truenet)
+### 🔹 [TrueNet – AI vs Human Content Detector](https://github.com/yukaberry/detect_ai_content)
 > Detects if a text is AI or human-generated. NLP feature engineering + ML classifiers (XGBoost, Logistic Regression). Deployed via Streamlit + FastAPI on GCP.  
 🛠️ Stack: `Python`, `scikit-learn`, `MLflow`, `GCP`, `Streamlit`, `FastAPI`
 
