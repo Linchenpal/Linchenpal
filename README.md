@@ -41,7 +41,7 @@ Former Actuarial Analyst in P&C insurance with strong mathematical background, t
 
 ---
 
-### 🔹 [NeoBank Data Warehouse](https://github.com/your-repo/neobank-dwh)
+### 🔹 [NeoBank Data Warehouse](https://github.com/Linchenpal/neo_bank)
 > Designed a synthetic bank DWH using Data Vault 2.0. Pipelines with Airflow, logic with dbt, deployed to BigQuery.  
 🛠️ Stack: `dbt`, `Airflow`, `Vault Modeling`, `BigQuery`, `SQL`, `GCP`
 
