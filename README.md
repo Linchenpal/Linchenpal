@@ -1,6 +1,6 @@
 ![Lina Palacios Banner](https://github.com/Linchenpal/Linchenpal/blob/main/banner.png?raw=true)
 
-Former Actuarial Analyst in P&C insurance with mathematical background, transitioned into Data Science and recently completed a Data Engineering apprenticeship. Hands-on experience in developing end-to-end pipelines with Airflow, dbt, GCP, and deploying ML models using CI/CD tools. Eager to apply AI and data infrastructure expertise in real-world business contexts, including insurance, banking, and social impact projects.
+Mathematician with actuarial background in P&C reserving under Solvency II and IFRS. Experience in risk modeling and regulatory reporting, complemented by hands-on machine learning and data engineering project work (Python, SQL, BigQuery, dbt). Interested on how to improve insurance risk analytics through structured and data-driven approaches.
 
 ---
 ## 🔧 Tech Stack & Tools
